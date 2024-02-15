@@ -1,5 +1,5 @@
-![Mr0Ctrl's GitHub stats](https://github-readme-stats.vercel.app/api?username=mr0ctrl&show_icons=true&theme=radical&theme=dark)!
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Mr0Ctrl's GitHub stats](https://github-readme-stats.vercel.app/api?username=mr0ctrl&show_icons=true&theme=radical&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 <!--
 **Mr0Ctrl/Mr0Ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
