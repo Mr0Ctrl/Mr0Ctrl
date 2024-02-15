@@ -1,6 +1,7 @@
 ![Mr0Ctrl's GitHub stats](https://github-readme-stats.vercel.app/api?username=mr0ctrl&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr0ctrl&theme=dark)
+
 <!--
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr0ctrl&theme=dark)
 **Mr0Ctrl/Mr0Ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
